@@ -1,4 +1,4 @@
-# Building microservices to manage customer data using Go and gRPC
+# 🥳 Building microservices to manage customer data using Go and gRPC
 
 Command to generate protobuf
 ```go
@@ -28,6 +28,6 @@ $ go test -coverprofile cover.out
 $ go tool cover -html=cover.out -o cover.html
 ```
 
-Create product table in PostgreSQL 
+Create table in PostgreSQL 
 ```sql
 ```
