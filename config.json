@@ -1,0 +1,9 @@
+{
+	"name": "Microservice to customers",
+	"description": "Microservice to manage customers",
+	"address": "localhost:50053",
+	"database": {
+		"driver": "postgres",
+		"url": "host= port= user=postgres password= dbname= sslmode=disable"
+	}
+}
